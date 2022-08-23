@@ -17,7 +17,7 @@ Content-Type: application/json
   "description": "Датчик на кухне за холодильником"
 }
 
-###
+### 
 
 # обновление датчика
 PATCH {{baseUrl}}/sensors/1/
