@@ -13,6 +13,7 @@ class MeasurementInline(admin.TabularInline):
 
 @admin.register(Sensor)
 class SensorAdmin(admin.ModelAdmin):
+    list_display = ['id', 'name',]
     inlines = [MeasurementInline,]
 
 @admin.register(Measurement)
