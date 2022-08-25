@@ -1,0 +1,22 @@
+https://www.django-rest-framework.org/api-guide/status-codes/
+
+Django.FUN
+https://django.fun/docs/django/ru/4.0/ref/request-response/#django.http.HttpResponse
+https://django.fun/docs/django/ru/4.0/ref/models/querysets/#first
+https://django.fun/docs/django/ru/4.0/ref/models/expressions/
+https://django.fun/docs/django-rest-framework/ru/3.12/api-guide/generic-views/#createapiview
+https://django.fun/docs/django/ru/4.0/ref/models/fields/#datetimefield
+
+Django Serialization
+https://ilyachch.gitbook.io/django-rest-framework-russian-documentation/overview/quick-start/serialization
+https://ilyachch.gitbook.io/django-rest-framework-russian-documentation/overview/quick-start/request-response
+
+DateTimeField не отображается в системе администратора
+автоматически создаваемое поле не отображается в интерфесе админа
+https://askdev.ru/q/datetimefield-ne-otobrazhaetsya-v-sisteme-administratora-42877/
+https://www.stackfinder.ru/questions/17118320/how-to-add-readonly-inline-on-django-admin
+
+https://developer.mozilla.org/ru/docs/Learn/Server-side/Django/Admin_site
+https://django.fun/docs/django/ru/4.0/ref/contrib/admin/#django.contrib.admin.ModelAdmin.fields
+
+https://www.django-rest-framework.org/api-guide/generic-views/
